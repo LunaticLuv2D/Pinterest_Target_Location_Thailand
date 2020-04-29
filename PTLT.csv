@@ -1,10 +1,10 @@
 Analytics overview,,,,
 2020-02-19 - 2020-04-27,,,,
 Content types,All,,,
-Devices,All,,Link_clicks_rate,
-Source,All,,low,x<20
-Publish Types,All,,medium,40<=x<=20
-Claimed accounts,All Pins,,high,x>40
+Devices,All,,,
+Source,All,,,
+Publish Types,All,,,
+Claimed accounts,,,
 Format,All,,,
 ,,,,
 Day,Impressions,Closeups,Saves,Link_clicks
@@ -72,8 +72,8 @@ Day,Impressions,Closeups,Saves,Link_clicks
 20/4/2020,14111,1034,184,22
 21/4/2020,14396,975,138,22
 22/4/2020,14884,1224,212,25
-23/4/2020,13845,1079,190,21
-24/4/2020,13795,1092,135,19
-25/4/2020,12986,1038,155,13
-26/4/2020,9577,766,98,15
-27/4/2020,23351,1672,218,29
+23/4/2020,47945,3418,485,95
+24/4/2020,48561,4021,498,110
+25/4/2020,30754,2132,362,34
+26/4/2020,32436,2312,368,45
+27/4/2020,22341,1748,227,31
